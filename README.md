@@ -1,6 +1,6 @@
 # Doodle-Jump
 This is the implementation of the popular mobile game Doodler jump using MIPS assembly.
-## Authur
+## Author
 Irisisawesome2333
 ## Installation and Setup
 1. Download the MARS v4.5 from [here](http://courses.missouristate.edu/kenvollmar/mars/download.htm)
